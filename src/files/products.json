@@ -1,0 +1,90 @@
+[
+	{
+		"title": "gatos",
+		"description": "lalalalal",
+		"code": "abcjdlñ",
+		"price": 1,
+		"status": true,
+		"stock": 2,
+		"category": "zapatos",
+		"thumbnail": "hppt/...",
+		"id": "cvTh_5JBw8RECSCx2qy5_"
+	},
+	{
+		"title": "elefante",
+		"description": "lalalalal",
+		"code": "abcjdlñ",
+		"price": 1,
+		"status": true,
+		"stock": 2,
+		"category": "zapatos",
+		"thumbnail": "hppt/...",
+		"id": "w1yAywKuoZFmDj8PcOcgK"
+	},
+	{
+		"title": "torta",
+		"description": "lalalalal",
+		"code": "abcjdlñ",
+		"price": 1,
+		"status": true,
+		"stock": 2,
+		"category": "zapatos",
+		"thumbnail": "hppt/...",
+		"id": "1Rkcl_pkfoA6_WD96EPnN"
+	},
+	{
+		"title": "sueter",
+		"description": "lalalalal",
+		"code": "abcjdlñ",
+		"price": 1,
+		"status": true,
+		"stock": 2,
+		"category": "zapatos",
+		"thumbnail": "hppt/...",
+		"id": "V5D3QqUIrEwDCB5-J7jvS"
+	},
+	{
+		"title": "violin",
+		"description": "lalalalal",
+		"code": "abcjdlñ",
+		"price": 1,
+		"status": true,
+		"stock": 2,
+		"category": "zapatos",
+		"thumbnail": "hppt/...",
+		"id": "aYVipYWvJqhneT6-u5GfA"
+	},
+	{
+		"title": "piano",
+		"description": "lalalalal",
+		"code": "abcjdlñ",
+		"price": 1,
+		"status": true,
+		"stock": 2,
+		"category": "zapatos",
+		"thumbnail": "hppt/...",
+		"id": "Fb67X10gWkQHBeiCCOoy7"
+	},
+	{
+		"title": "portatil",
+		"description": "lalalalal",
+		"code": "abcjdlñ",
+		"price": 1,
+		"status": true,
+		"stock": 2,
+		"category": "zapatos",
+		"thumbnail": "hppt/...",
+		"id": "QwtHEivcx9Ypd1WyU7Xhq"
+	},
+	{
+		"title": "tablet",
+		"description": "lalalalal",
+		"code": "abcjdlñ",
+		"price": 1,
+		"status": true,
+		"stock": 2,
+		"category": "zapatos",
+		"thumbnail": "hppt/...",
+		"id": "49iqcm8_Oey7OY03uAndf"
+	}
+]
